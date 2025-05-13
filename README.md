@@ -1,0 +1,1 @@
+# IAQF-sp500-concentration-impact
